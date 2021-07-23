@@ -1,0 +1,1130 @@
+body {
+  align-items: center;
+  background-color: #fff;
+  margin: 0;
+}
+
+.section-2,
+.section-3 {
+  margin-top: 30px;
+}
+
+/* Hospital Header Section */
+
+.hospital-description {
+  width: 100%;
+  height: 541px;
+  background-image: url('images/Banner_image.png');
+}
+
+.aster-logo-white {
+  margin: 30px 0;
+  width: 139px;
+  height: 139px;
+}
+
+.adult-paediatric-b {
+  color: #ffffff;
+  font-family: Titillium;
+  font-size: 28px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  width: 600px;
+  text-align: left;
+}
+
+.haematology-oncolo {
+  color: #ffffff;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 3.59px;
+  line-height: 34px;
+  width: 500px;
+  text-align: left;
+}
+
+.appoinment-btn {
+  background-color: #dd5a6a;
+  border-radius: 3.2px;
+  width: 186px;
+  height: 45px;
+}
+
+/* Enquiry Section */
+
+.enquiry-form {
+  background-color: #ffffff;
+  box-shadow: 10px 10px 21px 3px rgba(10, 8, 8, 0.5);
+  width: 330px;
+  height: 470px;
+  right: 175px;
+  margin-top: 46px;
+}
+
+.enquire-now {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 20.08px;
+  line-height: 24px;
+  width: 127px;
+  margin-top: 15px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.enquiry-detail-rectangle {
+  border: 0.87px solid #d0d0d0;
+  width: 278px;
+  height: 42px;
+}
+
+.enquiry-message-rectangle {
+  border: 0.87px solid #d0d0d0;
+  width: 278px;
+  height: 72px;
+}
+
+.btn-size {
+  margin: 15px 30px;
+  height: 44px;
+  width: 111px;
+}
+
+.rectangle-captcha {
+  background-color: #ffffff;
+  border: 0.87px solid #d0d0d0;
+  width: 278px;
+  height: 77px;
+}
+
+.left-align {
+  padding-left: 0px;
+}
+
+.checkbox {
+  background-color: #ffffff;
+  border: 0.87px solid #979797;
+  border-radius: 0.87px;
+  width: 18px;
+  height: 18px;
+  margin-top: 10px;
+  left: 0;
+}
+
+.image-captcha {
+  width: 50px;
+  height: 50px;
+}
+
+/* Section 2 */
+
+.bone-marrow-description-rectangle {
+  background-color: #2ec4b8;
+  border-radius: 4px;
+  width: 535px;
+  height: 95px;
+}
+
+.bone-marrow-description {
+  padding: 5px 10px 10px 20px;
+}
+
+.bone-marrow-transpla {
+  padding: 15px;
+  color: #ffffff;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+  width: 510px;
+  text-align: left;
+}
+
+.replacement-of-disea {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 532px;
+  text-align: left;
+  padding: 20px 0 30px 8px;
+}
+
+.medicines-and-in-cer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100%;
+  text-align: left;
+  padding: 20px 0 30px 8px;
+}
+
+.in-autologous-bone-m {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 100%;
+  text-align: left;
+  padding: 0 8px;
+}
+
+/* section 3 */
+
+.doctors {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.pediatric-card-border {
+  border: 1px solid #f9f9ff;
+}
+
+.pediatrics-contents-center {
+  text-align: center;
+  background-color: #f9f9ff;
+}
+
+.pediatric-bmt {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  /* text-align: left; */
+  margin: auto;
+}
+
+.shade-border {
+  border: 1px solid #f9f9ff;
+}
+
+.pediatric-bmt-doctor-image {
+  width: 255px;
+  height: 161px;
+  margin: auto;
+}
+
+.dr-vijay-agarwal-copy {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 3px;
+  text-align: center;
+}
+
+.dr-vijay-agarwal-is-copy {
+  margin: auto;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: 423px;
+  text-align: center;
+}
+
+.what-are-the-types-o {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.autologous-bone-marr {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 39px;
+  width: 100%;
+  text-align: left;
+}
+
+ul.autologous-bone-marr {
+  list-style-image: url('/images/hospital.png');
+}
+
+/* section-4 */
+
+.the-warning-signs-of {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.immune-deficiency-box {
+  background-color: #ffffff;
+  border: 1px solid #e5eaff;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-bottom: 15px;
+}
+
+.immune-deficiency-box-text {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+}
+
+/* Section 5 */
+
+.what-are-the-conditi {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 600px;
+  text-align: left;
+}
+
+ul.toggle {
+  list-style-image: url(/images/double-tick-indicator.png);
+}
+
+.drop {
+  width: 30px;
+  height: 20px;
+}
+
+.toggle {
+  display: none;
+}
+
+img .toggle:hover {
+  cursor: pointer;
+}
+
+.section-5-quiestions-spacing {
+  margin-bottom: 50px;
+}
+
+/* Section-6  Testimonials */
+
+.testimonials {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.testimonial-rectangle {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  width: 517px;
+  height: 215px;
+}
+
+.card-border {
+  border: 1px solid #ffffff;
+}
+
+.card-image {
+  height: 80px;
+  width: 80px;
+}
+
+.john-doe {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  margin: 0 0 0 125px;
+  line-height: 22px;
+  text-align: left;
+}
+
+.softwere-engineer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: left;
+  margin-top: 8px;
+}
+
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 21px;
+  text-align: left;
+}
+
+.testimonial-head-width {
+  width: 610px;
+}
+
+.inner-font-and-width {
+  font-style: italic;
+  width: 410px;
+}
+
+.lower-appoinment-box {
+  background-color: #004498;
+  border-radius: 3.81px;
+  width: 221px;
+  height: 54px;
+  margin: 50px auto;
+}
+
+.book-an-appoinment {
+  padding: 15px 0 0 28px;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  color: #fff;
+  text-align: left;
+}
+
+/* footer */
+
+.footer {
+  position: relative;
+  text-align: center;
+  background-color: #272727;
+  width: 100%;
+  height: 256px;
+}
+
+.footer-icon {
+  padding: 4% 3px 4% 3px;
+}
+
+.aster-cmi-all-right {
+  color: #ffffff;
+  font-family: StagSans;
+  font-size: 14px;
+  letter-spacing: 1.12px;
+  line-height: 17px;
+}
+
+.scroll-up {
+  position: absolute;
+  background-color: #ffffff;
+  border: 0.6px solid #979797;
+  border-radius: 2.4px;
+  width: 40px;
+  height: 40px;
+  right: 165px;
+  bottom: 180px;
+}
+
+/* media size */
+
+@media only screen and (min-width: 768px) and (max-width: 1621.99px) {
+  body {
+    align-items: center;
+  }
+
+  .hospital-description {
+    width: 100%;
+    height: 500px;
+    background-image: url('images/Banner_image.png');
+  }
+
+  .aster-logo-white {
+    margin-top: 130px;
+    width: 150px;
+    height: 87px;
+  }
+  .adult-paediatric-b {
+    color: #ffffff;
+    font-family: Titillium;
+    font-size: 19px;
+    margin-top: 4px;
+    letter-spacing: 3px;
+    line-height: 17px;
+    width: 500px;
+    text-align: left;
+  }
+  .haematology-oncolo {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 17px;
+    letter-spacing: 2.5px;
+    line-height: 34px;
+    width: px;
+    text-align: left;
+  }
+  .appoinment-btn-box {
+    text-align: center;
+  }
+  .appoinment-btn {
+    background-color: #dd5a6a;
+    border-radius: 3.2px;
+    margin-top: 40px;
+    width: 186px;
+    height: 45px;
+    text-align: center;
+  }
+  /* Enquiry Section */
+  .form-horizontal {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .enquiry-form {
+    background-color: #ffffff;
+    box-shadow: 10px 10px 21px 3px rgba(10, 8, 8, 0.5);
+    width: 280px;
+    height: 420px;
+    margin: 0 auto;
+  }
+  .enquire-now {
+    color: #213559;
+    font-family: StagSans;
+    font-size: 20.08px;
+    line-height: 24px;
+    width: 127px;
+    text-align: left;
+  }
+  .enquiry-detail-rectangle {
+    border: 0.87px solid #d0d0d0;
+    width: 230px;
+    height: 32px;
+  }
+  .enquiry-message-rectangle {
+    border: 0.87px solid #d0d0d0;
+    width: 230px;
+    height: 52px;
+  }
+  .margin-0 {
+    padding-left: 0px;
+  }
+  .btn-size {
+    left: 0;
+    height: 44px;
+    width: 111px;
+  }
+  .rectangle-captcha {
+    background-color: #ffffff;
+    border: 0.87px solid #d0d0d0;
+    width: 60px;
+    height: 55px;
+  }
+  .checkbox-size {
+    background-color: #ffffff;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 18px;
+    height: 18px;
+  }
+  .image-captcha {
+    width: 50px;
+    height: 50px;
+  }
+
+  /* section-2 */
+
+  .section-2 {
+    padding-top: 30px;
+    margin-top: 40px;
+  }
+  .section-2 .container {
+    width: 100%;
+    height: auto;
+  }
+  .section-2 .row {
+    width: 100%;
+  }
+  .bone-pic {
+    width: 300px;
+    height: auto;
+  }
+  .bone-marrow-description-rectangle {
+    background-color: #2ec4b8;
+    border-radius: 2px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+  .bone-marrow-description {
+    width: 100%;
+    padding: 2px 5px 5px 10px;
+    height: auto;
+  }
+  .bone-marrow-transpla {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    text-align: left;
+  }
+  .replacement-of-disea {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  .medicines-and-in-cer {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  .in-autologous-bone-m {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  /* section-3 */
+  .section-3 {
+    padding: 20px;
+  }
+  .doctors {
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    text-align: left;
+  }
+  .pediatric-card-border {
+    border: 1px solid #f9f9ff;
+  }
+  .pediatrics-contents-center {
+    margin-top: 30px;
+    text-align: center;
+    background-color: #f9f9ff;
+  }
+  .pediatric-bmt {
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 24px;
+    letter-spacing: 0.99px;
+    line-height: 44px;
+    margin: auto;
+  }
+  .pediatric-bmt-doctor-image {
+    width: 255px;
+    height: 161px;
+    margin: auto;
+  }
+  .dr-vijay-agarwal-copy {
+    color: #1d5aa6;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+  }
+  .md-mrcp-ph-d-cct-le-copy {
+    color: #1d5aa6;
+    font-family: StagSans;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: center;
+  }
+  .dr-vijay-agarwal-is-copy {
+    margin: auto;
+    color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    line-height: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .what-are-the-types-o {
+    margin-top: 15px;
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 25px;
+    letter-spacing: 1.28px;
+    line-height: 30px;
+    text-align: left;
+  }
+  .autologous-bone-marr {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 21px;
+    width: 100%;
+    text-align: left;
+  }
+  ul.autologous-bone-marr {
+    list-style-image: url('/images/hospital.png');
+  }
+  /* section-6 */
+  .section-6 {
+    padding: 10px;
+  }
+  .testimonial-rectangle {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 9px 8px 7px 10px rgba(0, 0, 0, 0.04);
+    width: 517px;
+    height: 249px;
+  }
+  .testimonials {
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 25px;
+    letter-spacing: 1.1px;
+    line-height: 33px;
+    text-align: left;
+  }
+  .card-image {
+    height: 50px;
+    width: 50px;
+  }
+  .john-doe {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    margin: 0 0 0 125px;
+    line-height: 16px;
+    text-align: left;
+  }
+  .softwere-engineer {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    margin-top: 8px;
+  }
+  .it-is-a-long-establi {
+    color: #000000;
+    width: 220px;
+    font-family: StagSans;
+    font-size: 17px;
+    line-height: 17px;
+    text-align: left;
+  }
+  .testimonial-head-width {
+    width: 610px;
+  }
+  .inner-font-and-width {
+    margin-top: 0;
+    font-style: italic;
+    width: 410px;
+  }
+  .lower-appoinment-box {
+    background-color: #004498;
+    border-radius: 3.81px;
+    width: 221px;
+    height: 54px;
+    margin: 50px auto;
+  }
+  .book-an-appoinment {
+    padding: 15px 0 0 28px;
+    font-family: Arial;
+    font-size: 17.14px;
+    line-height: 21px;
+    color: #fff;
+    text-align: left;
+  }
+  .it-is-a-long-establi {
+    width: 100%;
+  }
+  /* footer */
+  .footer {
+    text-align: center;
+    background-color: #272727;
+    width: 100%;
+    height: 196px;
+  }
+  .footer-icon {
+    padding: 7% 3px 2% 3px;
+  }
+  .aster-cmi-all-right {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 14px;
+    letter-spacing: 1.12px;
+    line-height: 17px;
+  }
+  .scroll-up {
+    position: absolute;
+    background-color: #ffffff;
+    border: 0.6px solid #979797;
+    border-radius: 2.4px;
+    width: 5%;
+    height: 19%;
+    right: 7%;
+    bottom: 55%;
+  }
+}
+
+@media only screen and (max-width: 767.99px) {
+  body {
+    align-items: center;
+  }
+  .hospital-description {
+    background-image: url('images/Banner_image.png');
+  }
+  .aster-logo-white {
+    margin-top: 30px;
+    width: 130px;
+    height: 87px;
+  }
+  .adult-paediatric-b {
+    padding-top: 5px;
+    color: #ffffff;
+    font-family: Titillium;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    text-align: left;
+  }
+  .haematology-oncolo {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    line-height: 22px;
+    width: 299px;
+    text-align: left;
+  }
+  .appoinment-btn-box {
+    text-align: center;
+  }
+  .appoinment-btn {
+    background-color: #dd5a6a;
+    border-radius: 3.2px;
+    width: 180px;
+    height: auto;
+    text-align: center;
+  }
+  .enquiry-form {
+    background-color: #ffffff;
+    box-shadow: 10px 10px 21px 3px rgba(10, 8, 8, 0.5);
+    width: 270px;
+    height: 450px;
+    margin: 0 auto;
+  }
+
+  /* .hospital-description .container .row .col-lg-4 {
+    display: flex;
+    align-items: center;
+    top: 50px;
+  } */
+
+  .enquire-now {
+    color: #213559;
+    font-family: StagSans;
+    font-size: 20px;
+    line-height: 20px;
+    width: 127px;
+    text-align: left;
+  }
+  .form-horizontal {
+    margin-top: 100px;
+    align-items: center;
+  }
+  .enquiry-detail-rectangle {
+    border: 0.87px solid #d0d0d0;
+    width: 192px;
+    height: 32px;
+  }
+  .enquiry-message-rectangle {
+    border: 0.87px solid #d0d0d0;
+    width: 192px;
+    height: 52px;
+  }
+  .margin-0 {
+    padding-left: 0px;
+  }
+  .btn-size {
+    left: 0;
+    height: 44px;
+    width: 111px;
+  }
+  .rectangle-captcha {
+    background-color: #ffffff;
+    border: 0.87px solid #d0d0d0;
+    width: 60px;
+    height: 55px;
+  }
+  .checkbox-size {
+    background-color: #ffffff;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 18px;
+    height: 18px;
+  }
+  .image-captcha {
+    width: 40px;
+    height: 40px;
+  }
+
+  /* section-2 */
+
+  .section-2 {
+    margin-top: 430px;
+  }
+  .section-2 .container .row .col-lg-5 {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+  }
+  .bone-pic {
+    width: 100%;
+  }
+  .bone-marrow-description-rectangle {
+    background-color: #2ec4b8;
+    border-radius: 2px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+  }
+  .bone-marrow-description {
+    width: 100%;
+    padding: 2px 5px 5px 10px;
+    height: auto;
+  }
+  .bone-marrow-transpla {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    text-align: left;
+  }
+  .replacement-of-disea {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  .medicines-and-in-cer {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  .in-autologous-bone-m {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 16px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 10px 0 15px 4px;
+  }
+  /* section-3 */
+  .section-3 {
+    padding: 20px;
+  }
+  .doctors {
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    text-align: left;
+  }
+  .pediatric-card-border {
+    border: 1px solid #f9f9ff;
+  }
+  .pediatrics-contents-center {
+    margin-top: 30px;
+    text-align: center;
+    background-color: #f9f9ff;
+  }
+  .pediatric-bmt {
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 24px;
+    letter-spacing: 0.99px;
+    line-height: 44px;
+    margin: auto;
+  }
+  .pediatric-bmt-doctor-image {
+    width: 170px;
+    height: 161px;
+    margin: auto;
+  }
+  .dr-vijay-agarwal-copy {
+    color: #1d5aa6;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+  }
+  .md-mrcp-ph-d-cct-le-copy {
+    color: #1d5aa6;
+    font-family: StagSans;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: center;
+  }
+  .dr-vijay-agarwal-is-copy {
+    margin: auto;
+    color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    line-height: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  .section-5 {
+    padding-top: 40px;
+  }
+  .what-are-the-types-o {
+    margin-top: 75px;
+    color: #22b78e;
+    font-family: StagSans;
+    font-size: 25px;
+    letter-spacing: 1.28px;
+    line-height: 30px;
+    text-align: left;
+  }
+  .autologous-bone-marr {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    line-height: 21px;
+    width: 100%;
+    text-align: left;
+  }
+  ul.autologous-bone-marr {
+    list-style-image: url('/images/hospital.png');
+  }
+  /* Section 3 list */
+  ul li {
+    width: 100%;
+  }
+  .what-are-the-conditi {
+    color: #1d5aa6;
+    font-family: StagSans;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    width: 100%;
+    text-align: left;
+  }
+  ul.toggle {
+    list-style-image: url(/images/double-tick-indicator.png);
+  }
+  .drop {
+    width: 30px;
+    height: 20px;
+  }
+  .toggle {
+    display: none;
+  }
+  img .toggle:hover {
+    cursor: pointer;
+  }
+  .section-5-quiestions-spacing {
+    margin-bottom: 50px;
+  }
+  /* section-4 */
+  .sm-center {
+    padding: 0 60px;
+  }
+  /* Testimonial Rectangle */
+  .section-6 {
+    padding: 10px;
+  }
+  .testimonial-rectangle {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+    width: 517px;
+    height: 249px;
+  }
+  .it-is-a-long-establi {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 16px;
+    /* width: 410px; */
+    text-align: left;
+  }
+  .testimonial-head-width {
+    width: 370px;
+  }
+  .inner-font-and-width {
+    font-style: italic;
+    width: 250px;
+  }
+  /* .it-is-a-long-establi {
+        width: 100%;
+    } */
+  /* footer */
+  .footer {
+    position: relative;
+    text-align: center;
+    background-color: #272727;
+    width: 100%;
+    height: 156px;
+  }
+  .footer-icon {
+    /* position: absolute; */
+    margin-top: 10%;
+    padding: 4% 3px 4% 3px;
+  }
+  .aster-cmi-all-right {
+    color: #ffffff;
+    font-family: StagSans;
+    font-size: 3%;
+    letter-spacing: 0.12%;
+    line-height: 5%;
+  }
+  .scroll-up {
+    position: absolute;
+    background-color: #ffffff;
+    border: 0.6px solid #979797;
+    border-radius: 2.4px;
+    width: 7%;
+    height: 15%;
+    right: 7%;
+    bottom: 55%;
+  }
+}
